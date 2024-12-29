@@ -27,7 +27,7 @@ LinkDetail is a Python tool designed to trace the redirection paths of URLs and 
 ## Usage
 1. Run the script:
     ```bash
-    python redirect_tracer.py
+    python linkdetail.py
     ```
 2. Enter the URL you want to trace when prompted, e.g., `http://example.com`.
 3. The tool will output:
@@ -42,18 +42,11 @@ L      I   N N N  KK    ---  D  D  EEE     TT    AAAA   I   L
 L      I   N  NN  K K        D  D  E       TT    A  A   I   L    
 LLLL  III  N   N  K  K       DDD   EEEE    TT    A  A  III  LLLL
 
-Version: 1.0
+Version: 1.1
 Created by: Epi-Nabeel
 https://github.com/Epi-Nabeel
-Welcome to Your Tool - linkdetail!
-Follow the redirection paths of any URL.
 
-
-No redirects detected. Final URL: http://example.com
 ```
-
-## Customization
-The title and ASCII art can be customized by editing the `display_title` function in the script. Feel free to personalize the script as per your requirements.
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features:
