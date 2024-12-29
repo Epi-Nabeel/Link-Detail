@@ -17,7 +17,7 @@ LinkDetail is a Python tool designed to trace the redirection paths of URLs and 
 1. Clone the repository:
     ```bash
     git clone https://github.com/Epi-Nabeel/Link-Detail.git
-    cd linkdetail
+    cd link-detail
     ```
 2. Install dependencies:
     ```bash
